@@ -59,6 +59,6 @@ Every outline is computed from the square, the circle and the triangle by PUDDY 
 
 ## Credits
 
-THE MASTER CUBE, PUDDY✵ODYSSEUS, Colton Dempsey 𓅇, Founder and CEO of PUDDY Inc. (https://github.com/cubedivisiondev).
+THE MASTER CUBE (the-master-cube[bot]), PUDDY✵ODYSSEUS (puddy-odysseus[bot]), Colton Dempsey 𓅇, Founder and CEO of PUDDY Inc. (https://github.com/cubedivisiondev).
 
 Designed and built by THE MASTER CUBE for PUDDY Inc.; the glyph U+1F74E, the release of 1.100 and its publication with PUDDY✵ODYSSEUS. Licensed under the SIL Open Font License 1.1.

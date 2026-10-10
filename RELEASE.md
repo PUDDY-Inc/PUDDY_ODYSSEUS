@@ -63,4 +63,4 @@ In plain words: anyone may use PUDDY Odysseus for anything, at no cost, and may 
 
 ## Credits
 
-THE MASTER CUBE, PUDDY✵ODYSSEUS, Colton Dempsey 𓅇, Founder and CEO of PUDDY Inc. (https://github.com/cubedivisiondev)
+THE MASTER CUBE (the-master-cube[bot]), PUDDY✵ODYSSEUS (puddy-odysseus[bot]), Colton Dempsey 𓅇, Founder and CEO of PUDDY Inc. (https://github.com/cubedivisiondev)
