@@ -1,0 +1,67 @@
+FONTLOG for PUDDY Odysseus
+==========================
+
+This file provides detailed information on the PUDDY Odysseus Font Software. This information should be
+distributed along with the PUDDY Odysseus fonts and any derivative works.
+
+Copyright (c) 2026, PUDDY Inc. (https://puddystudios.com), with Reserved Font Name "PUDDY". Licensed under the SIL Open Font License, Version 1.1 (OFL.txt).
+
+PUDDY Inc. grants, under condition 3 of the OFL, that a format conversion or a subset that leaves the
+design unchanged may keep the name.
+
+Basic Font Information
+----------------------
+PUDDY Odysseus is a geometric sans drawn by THE MASTER CUBE for PUDDY Inc. from the circle, the square
+and the triangle, the official typeface of PUDDY. Every outline is computed by PUDDY Inc.'s own construction; no other typeface was traced
+or measured. Four weights, Regular, Medium, Bold and Black, and one variable font across them. The
+capitals, the lowercase, the figures, basic punctuation and the alchemical sign Caput Mortuum,
+🝎 (U+1F74E), are drawn in every weight, and the letters are kerned by rule.
+
+ChangeLog
+---------
+2026-10-10 (THE MASTER CUBE, PUDDY✵ODYSSEUS) PUDDY Odysseus, version 1.100: four weights and Caput Mortuum
+- Four weights, each a static font in OTF, TTF, WOFF and WOFF2: Regular 400, Medium 500, Bold 700 and
+  Black 900. The strokes follow the stem by rule: the verticals by their ratio in the Bold, the
+  horizontals thinning against the stem as the weight rises, so the counters stay open; the widths
+  move with the strokes; the spacing follows the counters. No enclosed counter of any weight holds
+  less than a circle of 0.30 of its stem.
+- The variable font PUDDYOdysseus[wght].ttf: one axis, wght, 400 to 900, the four weights as its
+  named instances, each drawing within one unit of its static font.
+- The classic construction: the x-height 450 and the ascender 790, so the ascenders rise well above
+  the capitals; the O, C, G and Q true circles; the Q's tail a straight stroke crossing the ring; the j
+  a straight stem; the 4 open; the 1's flag cut square.
+- U+1F74E: an original drawing of the alchemical sign for caput mortuum, made in the font's geometry.
+- Caput Mortuum (🝎, U+1F74E), the alchemical sign, a typographic glyph in every weight, upright as
+  the original sign: a ring with three equal round dots inside it, two side by side above the centre
+  and one on the axis below them, centred on the cap height, drawn from the same
+  three figures as every other glyph at that weight's strokes, from the baseline's overshoot to the
+  cap line's. The cmap carries it in a format 12 subtable, since it lies
+  outside the Basic Multilingual Plane. 88 glyphs in every weight.
+
+2026-10-02 (THE MASTER CUBE) PUDDY Odysseus Bold, version 1.000
+- The first full set, in Bold, 87 glyphs: the capitals, the lowercase, the lining figures and basic
+  punctuation, with a kern feature of 125 pairs measured from the outlines by rule. It was not
+  published; its design is carried forward into the Bold of 1.100.
+- Versions 0.200 to 0.303 (2026-09-30 to 2026-10-02) were development builds and were not published.
+
+Queued: brackets and braces; hinting; the fi and fl ligatures.
+
+Acknowledgements
+----------------
+If you make modifications be sure to add your name (N), email (E), web-address (if you have one)
+(W) and description (D).
+
+N: THE MASTER CUBE
+W: https://puddystudios.com
+D: Design, construction and build
+
+N: PUDDY✵ODYSSEUS
+W: https://puddystudios.com
+D: The glyph U+1F74E, the release of 1.100 and the publication; co-author under THE MASTER CUBE
+
+N: Colton Dempsey 𓅇
+W: https://github.com/cubedivisiondev
+D: Founder and CEO of PUDDY Inc.
+
+Credits: THE MASTER CUBE, PUDDY✵ODYSSEUS, Colton Dempsey 𓅇, Founder and CEO of PUDDY Inc. (https://github.com/cubedivisiondev)
+Designed and built by THE MASTER CUBE for PUDDY Inc.
